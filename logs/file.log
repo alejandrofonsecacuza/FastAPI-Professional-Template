@@ -1,0 +1,35 @@
+2026-03-12 20:34:32 - root - WARNING - Could not import one or more routers: email-validator is not installed, run `pip install 'pydantic[email]'`
+2026-03-12 20:34:32 - root - WARNING - Could not import one or more routers: email-validator is not installed, run `pip install 'pydantic[email]'`
+2026-03-12 20:34:32 - asyncio - DEBUG - Using selector: EpollSelector
+2026-03-12 20:34:32 - root - WARNING - Could not import one or more routers: email-validator is not installed, run `pip install 'pydantic[email]'`
+2026-03-12 20:34:32 - root - INFO - 🚀 Starting FASTAPI TEMPLATE v1.0.0...
+2026-03-12 20:34:32 - root - WARNING - ⚠️  DB connection attempt 1/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:34:37 - root - WARNING - ⚠️  DB connection attempt 2/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:34:42 - root - WARNING - ⚠️  DB connection attempt 3/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:34:47 - root - WARNING - ⚠️  DB connection attempt 4/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:34:52 - root - WARNING - ⚠️  DB connection attempt 5/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:34:57 - root - CRITICAL - ❌ Could not connect to database. Shutting down application.
+2026-03-12 20:35:55 - asyncio - DEBUG - Using selector: EpollSelector
+2026-03-12 20:35:55 - root - INFO - 🚀 Starting FASTAPI TEMPLATE v1.0.0...
+2026-03-12 20:35:55 - root - WARNING - ⚠️  DB connection attempt 1/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:00 - root - WARNING - ⚠️  DB connection attempt 2/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:09 - asyncio - DEBUG - Using selector: EpollSelector
+2026-03-12 20:36:09 - root - INFO - 🚀 Starting FASTAPI TEMPLATE v1.0.0...
+2026-03-12 20:36:09 - root - WARNING - ⚠️  DB connection attempt 1/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:14 - root - WARNING - ⚠️  DB connection attempt 2/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:19 - root - WARNING - ⚠️  DB connection attempt 3/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:24 - root - WARNING - ⚠️  DB connection attempt 4/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:29 - root - WARNING - ⚠️  DB connection attempt 5/5 failed. Retrying in 5s... (Error: (pymysql.err.OperationalError) (1698, "Access denied for user 'root'@'localhost'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8))
+2026-03-12 20:36:34 - root - CRITICAL - ❌ Could not connect to database. Shutting down application.
